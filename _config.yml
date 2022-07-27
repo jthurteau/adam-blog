@@ -4,9 +4,9 @@ description: >
 permalink: '/:title/'
 
 # Author settings
-author: Your Name # add your name
+author: Troy # add your name
 author-pic: yosh-ginsu.jpg
-about-author: About you
+about-author: I, programmer
 
 # Contact links
 email: no-reply@ncsu.edu
